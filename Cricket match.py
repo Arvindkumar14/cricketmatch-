@@ -1,6 +1,6 @@
 import random
 Team =["India","Srilanka","Australia", "West indies","Pakistan", "New zealand","Southafrica","Bangladesh", "Afghanisthan","Ireland"]
-Venue =["Mumbai","delhi","kolkata","Ahemdabad","CHennai","Banglore"]
+Venue =["Mumbai","delhi","kolkata","Ahemdabad","Chennai","Banglore"]
 Random_venue = random.choice(Venue)
 Random_team1 = random.choice(Team)
 Random_team2 = random.choice(Team)
