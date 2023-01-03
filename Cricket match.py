@@ -4,6 +4,8 @@ Venue =["Mumbai","delhi","kolkata","Ahemdabad","Chennai","Banglore"]
 Random_venue = random.choice(Venue)
 Random_team1 = random.choice(Team)
 Random_team2 = random.choice(Team)
+while team_1 == team_2:
+team_2 = random.choice(teams)
 print(Team)
 print(Venue)
 print(f"Match will be played between {Random_team1} and {Random_team2} at {Random_venue}")
