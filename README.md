@@ -1,2 +1,2 @@
 # cricketmatch-
-How do i stop the code from picking same team
+this code choose random teams to play against each other at random venue
